@@ -13,7 +13,7 @@
   <li>Linux Basic Commands</li>
 </ul>
 <p>After getting all this, lets start building the Operating System using <b>Kernel</b></p>
-<h2>Checking and Creating Hard drive Partitions</h2>
+<h2>Checking and Creating Hard drive Partitions.</h2>
 <ul>
   <li>Open the <b>Terminal</b></li>
   <li>Type <b>lsblk</b> command</li>
